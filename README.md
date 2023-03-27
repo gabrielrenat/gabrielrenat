@@ -1,6 +1,6 @@
 ### Hi guys! I'm Gabriel Renato Marciano da Silva and I'm 18 years old
 
-- 🥑 Student at CEFET-MG
+- 🥑 Formed in CEFET-MG
 - 🌵 Web developer
 
 <div align="center">
